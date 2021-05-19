@@ -1,2 +1,1 @@
-# jJavaScript
-调色盘
+# 模仿 Vue 3.0 响应式原理实现调色器 demo
